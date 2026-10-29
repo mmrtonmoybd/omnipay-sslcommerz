@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"status":"INVALID_TRANSACTION","tran_date":"","tran_id":"","val_id":"x","amount":"","store_amount":"","currency":"BDT","bank_tran_id":"","card_type":"","card_no":"","card_issuer":"","card_brand":"","risk_title":"Safe","risk_level":"0","APIConnect":"DONE","validated_on":"","gw_version":""}

@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"status":"VALID","sessionkey":"F650E87F4A4E1D6B3F4E2B1D3C5A7E90","tran_date":"2026-10-29 14:50:12","tran_id":"ORDER-1001","val_id":"2610291450120sxbW1o2Ab5zH3G","amount":"100.00","store_amount":"97.50","card_type":"BKASH-BKash","card_no":"","bank_tran_id":"2610291450121qGvNTd6QqnFd8P","card_issuer":"BKash Mobile Banking","card_brand":"MOBILEBANKING","currency_type":"BDT","currency_amount":"100.00","currency_rate":"1.0000","risk_level":"0","risk_title":"Safe","APIConnect":"DONE"}

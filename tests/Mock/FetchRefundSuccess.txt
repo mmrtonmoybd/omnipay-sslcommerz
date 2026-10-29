@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"APIConnect":"DONE","bank_tran_id":"2610291450121qGvNTd6QqnFd8P","tran_id":"ORDER-1001","initiated_on":"2026-10-29 15:00:00","refunded_on":"2026-10-29 15:10:00","status":"refunded","refund_ref_id":"5d8f6b6c1b0e3","errorReason":""}

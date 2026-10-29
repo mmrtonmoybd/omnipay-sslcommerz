@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"status":"VALID","tran_date":"2026-10-29 14:50:12","tran_id":"ORDER-1001","val_id":"2610291450120sxbW1o2Ab5zH3G","amount":"100.00","store_amount":"97.50","currency":"BDT","bank_tran_id":"2610291450121qGvNTd6QqnFd8P","card_type":"BKASH-BKash","card_no":"","card_issuer":"BKash Mobile Banking","card_brand":"MOBILEBANKING","card_category":"","card_sub_brand":"Classic","card_issuer_country":"Bangladesh","card_issuer_country_code":"BD","currency_type":"BDT","currency_amount":"100.00","currency_rate":"1.0000","base_fair":"0.00","value_a":"","value_b":"","value_c":"","value_d":"","emi_instalment":"0","emi_amount":"0.00","emi_description":"","emi_issuer":"","account_details":"","risk_title":"Safe","risk_level":"0","discount_percentage":"0","discount_amount":"0.00","discount_remarks":"","APIConnect":"DONE","validated_on":"2026-10-29 14:50:30","gw_version":""}

@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{"APIConnect":"DONE","bank_tran_id":"x","status":"failed","errorReason":"Invalid Request"}
